@@ -32,4 +32,13 @@ PistolRecyclingRecipe.results = {
 }
 PistolRecyclingRecipe.category = "recycling"
 PistolRecyclingRecipe.auto_recycle = false
+
+for _,recipe in pairs(data.raw["recipe"]) do
+    for _,result in pairs(recipe.results) do
+        if string.find(result.name, "drill") and result.type == "item" then
+            recipe = nil
+        end
+    end
+end
+
 data:extend{{PistolRecipe, PistolRecyclingRecipe}}
