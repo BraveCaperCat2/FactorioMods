@@ -2,7 +2,7 @@
 name: Bug Report Template
 about: Describe an issue with a mod.
 title: "[BUG]"
-labels: ''
+labels: Issue
 assignees: ''
 
 ---

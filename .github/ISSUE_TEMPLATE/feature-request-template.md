@@ -2,7 +2,7 @@
 name: Feature Request Template
 about: Describe a feature you want to add to a mod.
 title: "[FEATURE]"
-labels: ''
+labels: Feature Request
 assignees: ''
 
 ---
