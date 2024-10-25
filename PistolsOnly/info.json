@@ -1,0 +1,9 @@
+{
+    "name": "PistolsOnly",
+    "version": "1.0.0",
+    "title": "Resourceful Pistols",
+    "author": "BCC",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "! ReturnPistols", "quality >= 2.0"],
+    "description": "Pistols are now a resource. Use Assemblers to craft Pistols, recycle them for their valuable Iron, improve your Pistols to unlock new metals and start your Pistol-Based Factory!"
+}

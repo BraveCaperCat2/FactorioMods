@@ -1,0 +1,9 @@
+{
+    "name": "VariedSatellites",
+    "version": "1.0.0",
+    "title": "Varied Satellites",
+    "author": "BCC",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "DigitalAge >= 1.0.0", "DataCore >= 1.0.0", "(?) space-age >= 2.0"],
+    "description": "Varied Satellites is a mod which adds various satellites, specialized in various tasks. Part of the Factorio Digital Age."
+}

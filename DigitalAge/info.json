@@ -1,0 +1,9 @@
+{
+    "name": "DigitalAge",
+    "version": "1.0.0",
+    "title": "Digital Age",
+    "author": "BCC",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "DataCore >= 1.0.0"],
+    "description": "Core mod for all mods in the Factorio Digital Age."
+}

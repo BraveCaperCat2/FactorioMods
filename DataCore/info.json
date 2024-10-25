@@ -1,0 +1,9 @@
+{
+    "name": "DataCore",
+    "version": "1.0.0",
+    "title": "DataCore",
+    "author": "BCC",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "Data Core is a library mod dedicated to helping with the creation of data cards and related processes."
+}

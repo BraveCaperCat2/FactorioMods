@@ -1,0 +1,9 @@
+{
+    "name": "ReturnPistols",
+    "version": "1.0.0",
+    "title": "Return Pistol Recipes",
+    "author": "BCC",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "Adds the Pistol Recipe from 1.1 to 2.0, as they removed the Pistol Recipe in that update."
+}
